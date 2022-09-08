@@ -2,4 +2,6 @@
 
 Mi primer repositorio 
 
-:mate: :soccer: = :smile:   
+Hola :earth_americas: 
+
+I :heart: → :mate: :soccer: :smile: 
